@@ -1,0 +1,11 @@
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\bin\Debug\netcoreapp2.0\Users.deps.json
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\bin\Debug\netcoreapp2.0\Users.runtimeconfig.json
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\bin\Debug\netcoreapp2.0\Users.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\bin\Debug\netcoreapp2.0\Users.dll
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\bin\Debug\netcoreapp2.0\Users.pdb
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\obj\Debug\netcoreapp2.0\Users.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\obj\Debug\netcoreapp2.0\Users.dll
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\obj\Debug\netcoreapp2.0\Users.pdb
+C:\Users\carve\Desktop\School\Winter Term 2018\CS296N\pro-asp.net-core-mvc-2-master\29 - Applying Identity\Users\Users\obj\Debug\netcoreapp2.0\Users.csprojAssemblyReference.cache
