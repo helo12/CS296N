@@ -1,0 +1,14 @@
+﻿@model week6Lab.Models.Leaders.LeaderViewModel
+@{
+    ViewData["Title"] = "Leader";
+    Layout = "/views/shared/_Layout.cshtml";
+
+}
+
+<h2>Leaders</h2>
+<p>These are the Leaders of HOAKU</p>
+@foreach (var leader in Model.LeaderRepo.leaders)
+{
+    <br /><a href="@leader.Link" style="text-align:center;" target="new">@leader.Name</a>
+}
+

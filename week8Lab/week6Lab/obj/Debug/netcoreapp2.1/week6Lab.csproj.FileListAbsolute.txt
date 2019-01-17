@@ -1,0 +1,105 @@
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.deps.json
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.runtimeconfig.json
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.runtimeconfig.dev.json
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.Views.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csprojAssemblyReference.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorAssemblyInfo.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorAssemblyInfo.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.AssemblyInfoInputs.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.AssemblyInfo.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.TagHelpers.input.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.TagHelpers.output.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorCoreGenerate.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\History.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Respond.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\Index.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\Leaders.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\RecentKills.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorTargetAssemblyInfo.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorTargetAssemblyInfo.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csproj.CopyComplete
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.deps.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.runtimeconfig.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.Views.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csprojAssemblyReference.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorAssemblyInfo.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorAssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.TagHelpers.input.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.TagHelpers.output.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorCoreGenerate.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\History.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Respond.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\Index.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\Leaders.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\RecentKills.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorTargetAssemblyInfo.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorTargetAssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csproj.CopyComplete
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.deps.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.runtimeconfig.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.Views.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\bin\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csprojAssemblyReference.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorAssemblyInfo.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorAssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.TagHelpers.input.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.TagHelpers.output.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorCoreGenerate.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\History.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Home\Respond.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\Index.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\Leaders.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Info\RecentKills.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorTargetAssemblyInfo.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.RazorTargetAssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 8\week8Lab\week6Lab\obj\Debug\netcoreapp2.1\week6Lab.csproj.CopyComplete

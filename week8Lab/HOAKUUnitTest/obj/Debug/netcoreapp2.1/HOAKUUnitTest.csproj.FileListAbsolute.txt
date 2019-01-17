@@ -1,0 +1,38 @@
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.Views.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.deps.json
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.runtimeconfig.json
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.runtimeconfig.dev.json
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.pdb
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.csprojAssemblyReference.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.AssemblyInfoInputs.cache
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.AssemblyInfo.cs
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.csproj.CopyComplete
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.dll
+C:\Users\Rob\Desktop\Week 7\wekk6Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.Views.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.Views.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.deps.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.runtimeconfig.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\HOAKUUnitTest.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\bin\Debug\netcoreapp2.1\week6Lab.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.csprojAssemblyReference.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.csproj.CopyComplete
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\Week 7\week7Lab\HOAKUUnitTest\obj\Debug\netcoreapp2.1\HOAKUUnitTest.pdb
