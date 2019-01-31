@@ -1,0 +1,42 @@
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.deps.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.runtimeconfig.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csprojAssemblyReference.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.deps.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.runtimeconfig.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csprojAssemblyReference.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.deps.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.runtimeconfig.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csprojAssemblyReference.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.pdb
