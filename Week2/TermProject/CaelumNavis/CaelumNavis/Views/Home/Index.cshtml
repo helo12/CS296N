@@ -4,9 +4,9 @@
 }
 
 
-<h4>Log In</h4>
+<h4>not this one</h4>
 <div class="text-danger" asp-validation-summary="All"></div>
-<form asp-action="Account/Login" method="post">
+<form asp-controller="Account" asp-action="Login" method="post">
 	<input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
 	<div class="form-group">
 		<label asp-for="Email"></label>

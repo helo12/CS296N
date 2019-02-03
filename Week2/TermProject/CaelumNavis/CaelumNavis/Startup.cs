@@ -65,8 +65,8 @@ public void Configure(IApplicationBuilder app)
 			app.UseAuthentication();
 			app.UseMvcWithDefaultRoute();
 			
-			//AppDBContext.CreateAdminAccount(app.ApplicationServices,
-			//Configuration).Wait();
+			AppDBContext.CreateAdminAccount(app.ApplicationServices,
+			Configuration).Wait();
 
 		}
 	}

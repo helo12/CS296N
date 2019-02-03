@@ -68,7 +68,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n<h2>CustomerView</h2>\n");
             EndContext();
             BeginContext(153, 164, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d539b3cdd96149d6967b2a581c5fe216", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "99e5b79c1031498cb2863a970cebf9a6", async() => {
                 BeginContext(173, 137, true);
                 WriteLiteral("\n\t<input type=\"text\" name=\"searchString\" placeholder=\"search for\" />\n\t<input type=\"submit\" value=\"searchString\" class=\"btn-secondary\" />\n");
                 EndContext();
@@ -92,7 +92,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n<p>\n\t");
             EndContext();
             BeginContext(323, 84, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2df7fb6a5552441e88805be468850c75", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "710eb2607c4449edb47a72ebc7e8b14c", async() => {
                 BeginContext(388, 15, true);
                 WriteLiteral("Create Customer");
                 EndContext();
@@ -267,7 +267,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t<a>Edit</a> |\n\t\t\t\t\t");
             EndContext();
             BeginContext(1403, 113, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d98eb9ed635e41b8834ad826254f74ad", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b00afde8bd64b73aecc94bd94946d45", async() => {
                 BeginContext(1506, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
