@@ -18,25 +18,38 @@ namespace CaelumNavis.Models.Repos
 		public static async Task CreateAdminAccount(IServiceProvider serviceProvider,
 		IConfiguration configuration)
 		{
-			
+
+			UserManager<Customer> userManager =
+				serviceProvider.GetRequiredService<UserManager<Customer>>();
+			RoleManager<IdentityRole> roleManager =
+				serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+
 			string username = configuration["Data:AdminUser:Name"];
 			string email = configuration["Data:AdminUser:Email"];
 			string password = configuration["Data:AdminUser:Password"];
 			string role = configuration["Data:AdminUser:Role"];
 
-			const string ADMIN = "Admin";
-			const string MEMBER = "Member";
-
-			
-
-			Customer user = new Customer
+			if (await userManager.FindByNameAsync(username) == null)
 			{
-			
-			UserName = username,
-				Email = email
-			};
+				if (await roleManager.FindByNameAsync(role) == null)
+				{
+					await roleManager.CreateAsync(new IdentityRole(role));
+				}
 
-		
+				Customer customer = new Customer
+				{
+					UserName = username,
+					Email = email
+				};
+
+				IdentityResult result = await userManager
+					.CreateAsync(customer, password);
+				if (result.Succeeded)
+				{
+					await userManager.AddToRoleAsync(customer, role);
+				}
+
+			}
 		}
 	}
 }

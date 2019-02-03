@@ -34,9 +34,9 @@ C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\Cae
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.runtimeconfig.dev.json
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.dll
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\bin\Debug\netcoreapp2.1\CaelumNavisTests.pdb
-C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csprojAssemblyReference.cache
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csproj.CoreCompileInputs.cache
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfoInputs.cache
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.AssemblyInfo.cs
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.dll
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavisTests\obj\Debug\netcoreapp2.1\CaelumNavisTests.csprojAssemblyReference.cache

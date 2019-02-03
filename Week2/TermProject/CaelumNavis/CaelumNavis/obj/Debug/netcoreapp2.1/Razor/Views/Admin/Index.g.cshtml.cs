@@ -67,7 +67,7 @@ using CaelumNavis.Models;
             WriteLiteral("}\n\n<h2>Index</h2>\n\n<div class=\"bg-primary m-1 p-1 text-white\"><h4>User Accounts</h4></div>\n");
             EndContext();
             BeginContext(198, 66, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c16f73c6f90741f784527fe27eda21ea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5bec0383cf040c9afd34b5a5589a052", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper>();
@@ -97,7 +97,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper.ValidationSumma
             WriteLiteral("</table>\n");
             EndContext();
             BeginContext(920, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21d9d1ee38f94ab086084a271b26ab4e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb7bf878987341c2990a99e475822230", async() => {
                 BeginContext(967, 6, true);
                 WriteLiteral("Create");
                 EndContext();

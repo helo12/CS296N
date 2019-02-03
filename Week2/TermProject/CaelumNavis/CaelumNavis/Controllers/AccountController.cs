@@ -43,11 +43,11 @@ namespace CaelumNavis.Controllers
 		{
 			if (ModelState.IsValid)
 			{
-				Customer user = await userManager.FindByEmailAsync(model.Email);
-				if (user != null)
+				Customer customer = await userManager.FindByEmailAsync(model.Email);
+				if (customer != null)
 				{
 					await signInManager.SignOutAsync();
-					var result = await signInManager.PasswordSignInAsync(user, model.Password, false, false);
+					var result = await signInManager.PasswordSignInAsync(customer, model.Password, false, false);
 					if (result.Succeeded)
 					{
 						return Redirect(returnUrl ?? "/");

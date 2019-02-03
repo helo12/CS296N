@@ -53,13 +53,20 @@ namespace CaelumNavis
 		
 public void Configure(IApplicationBuilder app)
 		{
+			app.UseMvc(routes =>
+			{
+				routes.MapRoute(
+					name: "default",
+					template: "{controller=Login}/{action=Index}");
+			});
 			app.UseStatusCodePages();
 			app.UseDeveloperExceptionPage();
 			app.UseStaticFiles();
 			app.UseAuthentication();
 			app.UseMvcWithDefaultRoute();
-			AppDBContext.CreateAdminAccount(app.ApplicationServices,
-			Configuration).Wait();
+			
+			//AppDBContext.CreateAdminAccount(app.ApplicationServices,
+			//Configuration).Wait();
 
 		}
 	}
