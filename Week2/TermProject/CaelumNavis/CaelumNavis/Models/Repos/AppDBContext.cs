@@ -10,11 +10,13 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace CaelumNavis.Models.Repos
 {
-	public class AppDBContext : IdentityDbContext
+	public class AppDBContext : IdentityDbContext<Customer>
 	{
 		public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) { }
 		public DbSet<Message> Messages { get; set; }
 		public DbSet<Customer> Customers { get; set; }
+		
+		
 		public static async Task CreateAdminAccount(IServiceProvider serviceProvider,
 		IConfiguration configuration)
 		{
