@@ -68,12 +68,12 @@ using CaelumNavis.Models;
             WriteLiteral("\n<h2>MessageForm</h2>\n\n");
             EndContext();
             BeginContext(108, 2344, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51481e4bde0e4059ace9cfba2bd9ac27", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d54b39c6f8af4f88bf85041ac3902cb6", async() => {
                 BeginContext(186, 131, true);
                 WriteLiteral("\n\n\n\t<p id=\"required\">Want to get in contact with us? Fill out this form!   </p>\n\t<figure>\n\t\t<legend>Contact Information</legend>\n\t\t");
                 EndContext();
                 BeginContext(317, 2116, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce016612539e4881a19f46ec23be59da", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "89b6d93bb6f2470aaa5dc264313d38c2", async() => {
                     BeginContext(362, 1, true);
                     WriteLiteral("\n");
                     EndContext();

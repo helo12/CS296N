@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CaelumNavis.Models;
 using CaelumNavis.Models.Repos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CaelumNavis.Controllers
 {
+	[Authorize]
 	public class HomeController : Controller
 	{
 		public ICustomerRepo CustomerRepo { get; set; }

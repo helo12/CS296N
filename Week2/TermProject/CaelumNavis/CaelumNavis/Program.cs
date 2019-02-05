@@ -15,7 +15,7 @@ namespace CaelumNavis
 		public static void Main(string[] args)
 		{
 			BuildWebHost(args).Run();
-
+			
 		}
 
 		/*public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

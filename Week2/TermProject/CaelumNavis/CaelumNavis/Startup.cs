@@ -44,7 +44,7 @@ namespace CaelumNavis
 
 			services.AddIdentity<Customer, IdentityRole>(opts => {
 				opts.User.RequireUniqueEmail = true;
-				opts.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz";
+			//	opts.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz";
 				opts.Password.RequiredLength = 6;
 				opts.Password.RequireNonAlphanumeric = false;
 				opts.Password.RequireLowercase = false;

@@ -46,7 +46,7 @@ public async Task<IActionResult> Create(Models.CreateModel model)
 	{
 		Customer user = new Customer
 		{
-			UserName = model.Name,
+			UserName = model.UserName,
 			Email = model.Email
 		};
 		IdentityResult result

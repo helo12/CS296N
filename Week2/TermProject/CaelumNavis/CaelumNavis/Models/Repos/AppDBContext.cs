@@ -26,7 +26,7 @@ namespace CaelumNavis.Models.Repos
 			RoleManager<IdentityRole> roleManager =
 				serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 
-			string username = configuration["Data:AdminUser:Name"];
+			string username = configuration["Data:AdminUser:UserName"];
 			string email = configuration["Data:AdminUser:Email"];
 			string password = configuration["Data:AdminUser:Password"];
 			string role = configuration["Data:AdminUser:Role"];
