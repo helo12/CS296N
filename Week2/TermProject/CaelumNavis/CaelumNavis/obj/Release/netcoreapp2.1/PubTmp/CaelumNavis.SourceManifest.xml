@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<sitemanifest>
-  <IisApp path="C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavis\obj\Release\netcoreapp2.1\PubTmp\Out\" />
-  <dbfullsql path="C:\Users\carve\Desktop\School\Fall Term 2018\CS 295N ASP.NET MVC\TermProject\CaelumNavis\CaelumNavis\obj\Release\netcoreapp2.1\PubTmp\EFSQLScripts\CaelumNavis.Models.Repos.AppDBContext.sql" />
-</sitemanifest>
