@@ -4,7 +4,7 @@
 	ViewData["Title"] = "Index";
 	Layout = "/views/shared/_Layout.cshtml";
 }
-}
+
 <div class="bg-primary m-1 p-1 text-white"><h4>User Accounts</h4></div>
 <div class="text-danger" asp-validation-summary="ModelOnly"></div>
 <table class="table table-sm table-bordered">
@@ -15,16 +15,16 @@
 	}
 	else
 	{
-		foreach (Customer user in Model)
+		foreach (Customer customer in Model)
 		{
 			<tr>
-				<td>@user.Id</td>
-				<td>@user.Name</td>
-				<td>@user.Email</td>
+				<td>@customer.Id</td>
+				<td>@customer.Name</td>
+				<td>@customer.Email</td>
 				<td>
-					<form asp-action="Delete" asp-route-id="@user.Id" method="post">
+					<form asp-action="Delete" asp-route-id="@customer.Id" method="post">
 						<a class="btn btn-sm btn-primary" asp-action="Edit"
-						   asp-route-id="@user.Id">Edit</a>
+						   asp-route-id="@customer.Id">Edit</a>
 						<button type="submit"
 								class="btn btn-sm btn-danger">
 							Delete
@@ -35,4 +35,4 @@
 		}
 	}
 </table>
-<a class="btn btn-primary" asp-action="Create">Create</a>
+<a class="btn btn-primary" asp-controller="Admin" asp-action="CreatePage">Create</a>

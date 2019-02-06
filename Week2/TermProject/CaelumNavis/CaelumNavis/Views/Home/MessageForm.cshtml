@@ -4,10 +4,9 @@
 	Layout = "/views/shared/_Layout.cshtml";
 }
 
+
 <h2>MessageForm</h2>
-
 <body style="background:url(HeaderImage.jpg) no-repeat center center fixed; ">
-
 
 	<p id="required">Want to get in contact with us? Fill out this form!   </p>
 	<figure>
@@ -36,39 +35,36 @@
 			<input Name="BugOrError" type="checkbox" value="true" checked /><br />
 			<!--CanContact-->
 			<label Name="CanContact">Can we contact you with special offers? </label>
-			<input Name="CanContact" type="checkbox" value="true" checked/><br />
+			<input Name="CanContact" type="checkbox" value="true" checked /><br />
 			<!--Terms-->
 			<label Name="Terms">Do you agree to the terms of service?  </label>
-			<input Name="Terms" type="checkbox" value="true" checked/><br />
-
+			<input Name="Terms" type="checkbox" value="true" checked /><br />
 			@*
 				Name
-				Email 
-				Reason 
+				Email
+				Reason
 				Address
-				City 
+				City
 				MessageText
-				BugOrError 
-				CanContact 
+				BugOrError
+				CanContact
 				Terms
 
 			*@
 			@*Email:  <input Name="Email" /> <br />
-		Reason For Contacting:  <input Name="Reason" /> <br />
-		Address: <input Name="Address" /><br />
-		City: <input Name="City" /><br />
+				Reason For Contacting:  <input Name="Reason" /> <br />
+				Address: <input Name="Address" /><br />
+				City: <input Name="City" /><br />
 
-		Message Text: <input Name="MessageText" /><br />
+				Message Text: <input Name="MessageText" /><br />
 
-		Is this regarding a bug or error? <input type="checkbox" Name="bugOrError" /><br />
-		Can we contact you with promotional offers?<input type="checkbox" Name="CanContact" /><br />
-		Do you agree to the terms of service?<input type="checkbox" Name="Terms" /><br />*@
-
+				Is this regarding a bug or error? <input type="checkbox" Name="bugOrError" /><br />
+				Can we contact you with promotional offers?<input type="checkbox" Name="CanContact" /><br />
+				Do you agree to the terms of service?<input type="checkbox" Name="Terms" /><br />*@
 			<p>
 				<input type="submit" value="Submit My Pledge" />
 				<input type="reset" value="Cancel" />
 			</p>
 		</form>
-</figure>
-
+	</figure>
 </body>

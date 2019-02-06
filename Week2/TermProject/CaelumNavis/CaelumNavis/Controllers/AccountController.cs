@@ -52,8 +52,9 @@ namespace CaelumNavis.Controllers
 					
 					if (result.Succeeded)
 					{
-						returnUrl = "https://localhost:44360/Home/Index.cshtml";
-						return Redirect(returnUrl ?? "/");
+
+						//return Redirect(returnUrl ?? "");
+						return RedirectToAction("Index", "Home");
 					}
 				}
 				ModelState.AddModelError(nameof(LoginViewModel.Email), "Invalid user or password");

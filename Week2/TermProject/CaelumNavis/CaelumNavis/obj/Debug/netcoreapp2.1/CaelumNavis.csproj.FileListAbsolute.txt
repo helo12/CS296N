@@ -99,7 +99,6 @@ C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\Cae
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\CaelumNavis.RazorCoreGenerate.cache
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
-C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Home\CreateCustomer.g.cshtml.cs
@@ -130,5 +129,7 @@ C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\Cae
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\CaelumNavis.csprojAssemblyReference.cache
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\CaelumNavis.dll.config
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Login_Layout.g.cshtml.cs
-C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Roles\UpdateRole.g.cshtml.cs
-C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Index.g.cshtml.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\UpdateRole.g.cshtml.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs

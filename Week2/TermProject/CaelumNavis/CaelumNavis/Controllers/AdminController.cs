@@ -31,8 +31,8 @@ namespace CaelumNavis.Controllers
 			passwordHasher = passwordHash;
 		}
 		[Route("Admin/Index")]
-		public ViewResult Index() => View();
-		[Route("Admin/Create")]
+		public ViewResult Index() => View(userManager.Users);
+		[Route("Admin/CreatePage")]
 		public ViewResult Create() => View();
 		[Route("Admin/Delete")]
 		public ViewResult Delete() => View();
@@ -40,17 +40,19 @@ namespace CaelumNavis.Controllers
 
 
 [HttpPost]
+[Route("Admin/Create")]
 public async Task<IActionResult> Create(Models.CreateModel model)
 {
 	if (ModelState.IsValid)
 	{
-		Customer user = new Customer
+		Customer cust = new Customer
 		{
 			UserName = model.UserName,
 			Email = model.Email
+			
 		};
 		IdentityResult result
-			= await userManager.CreateAsync(user, model.Password);
+			= await userManager.CreateAsync(cust, model.Password);
 
 		if (result.Succeeded)
 		{
