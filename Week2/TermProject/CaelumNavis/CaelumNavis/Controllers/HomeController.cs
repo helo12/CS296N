@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CaelumNavis.Models;
 using CaelumNavis.Models.Repos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CaelumNavis.Controllers
 {
+
 	public class HomeController : Controller
 	{
 		public ICustomerRepo CustomerRepo { get; set; }
@@ -22,10 +24,12 @@ namespace CaelumNavis.Controllers
 
 
 		//home page
+		[Authorize]
 		public IActionResult Index()
 		{
-
-			return View();
+			
+				return View();
+		
 		}
 		//Frequently Asked Questions
 		public IActionResult FAQ()

@@ -10,11 +10,13 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace CaelumNavis.Models.Repos
 {
-	public class AppDBContext : IdentityDbContext
+	public class AppDBContext : IdentityDbContext<Customer>
 	{
 		public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) { }
 		public DbSet<Message> Messages { get; set; }
 		public DbSet<Customer> Customers { get; set; }
+		
+		
 		public static async Task CreateAdminAccount(IServiceProvider serviceProvider,
 		IConfiguration configuration)
 		{
@@ -24,7 +26,7 @@ namespace CaelumNavis.Models.Repos
 			RoleManager<IdentityRole> roleManager =
 				serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 
-			string username = configuration["Data:AdminUser:Name"];
+			string username = configuration["Data:AdminUser:UserName"];
 			string email = configuration["Data:AdminUser:Email"];
 			string password = configuration["Data:AdminUser:Password"];
 			string role = configuration["Data:AdminUser:Role"];

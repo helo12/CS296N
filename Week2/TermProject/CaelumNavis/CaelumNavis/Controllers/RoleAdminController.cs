@@ -16,9 +16,10 @@ namespace CaelumNavis.Controllers
 	{
 		private RoleManager<IdentityRole> roleManager;
 		private UserManager<Customer> userManager;
-
+		[Route("RoleAdmin/Index")]
 		public ViewResult Index() => View(roleManager.Roles);
 
+		[Route("RoleAdmin/CreatePage")]
 		public IActionResult Create() => View();
 
 		public RoleAdminController(RoleManager<IdentityRole> roleMgr,
@@ -29,6 +30,7 @@ namespace CaelumNavis.Controllers
 		}
 
 		[HttpPost]
+		[Route("RoleAdmin/Create")]
 		public async Task<IActionResult> Create([Required]string name)
 		{
 			if (ModelState.IsValid)
@@ -70,26 +72,26 @@ namespace CaelumNavis.Controllers
 			}
 			return View("Index", roleManager.Roles);
 		}
-		//[Authorize(Roles = "admin")]
-		//public async Task<IActionResult> Edit(string id)
-		//{
+		[Authorize(Roles = "admin")]
+		public async Task<IActionResult> Edit(string id)
+		{
 
-		//	IdentityRole role = await roleManager.FindByIdAsync(id);
-		//	List<Customer> members = new List<Customer>();
-		//	List<Customer> nonMembers = new List<Customer>();
-		//	foreach (Customer user in userManager.Users)
-		//	{
-		//		var list = await userManager.IsInRoleAsync(user, role.Name)
-		//			? members : nonMembers;
-		//		list.Add(user);
-		//	}
-		//	return View(new RoleEditModel
-		//	{
-		//		Role = role,
-		//		Members = members,
-		//		NonMembers = nonMembers
-		//	});
-		//}
+			IdentityRole role = await roleManager.FindByIdAsync(id);
+			List<Customer> customerRoles = new List<Customer>();
+			List<Customer> customerNoRoles = new List<Customer>();
+			foreach (Customer user in userManager.Users)
+			{
+				var list = await userManager.IsInRoleAsync(user, role.Name)
+					? customerRoles : customerNoRoles;
+				list.Add(user);
+			}
+			return View(new RoleEditor
+			{
+				Role = role,
+				CustomerRoles = customerRoles,
+				CustomerNoRoles = customerNoRoles
+			});
+		}
 		private void AddErrorsFromResult(IdentityResult result)
 		{
 			foreach (IdentityError error in result.Errors)

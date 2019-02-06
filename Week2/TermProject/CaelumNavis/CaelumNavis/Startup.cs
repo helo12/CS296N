@@ -1,15 +1,21 @@
-﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using CaelumNavis.Models.Repos;
 using CaelumNavis.Models;
 using CaelumNavis.Infrastructure;
-
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.AspNetCore.Mvc;
-using static CaelumNavis.Models.CustomerVM;
+
 
 namespace CaelumNavis
 {
@@ -38,7 +44,7 @@ namespace CaelumNavis
 
 			services.AddIdentity<Customer, IdentityRole>(opts => {
 				opts.User.RequireUniqueEmail = true;
-				opts.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz";
+			//	opts.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz";
 				opts.Password.RequiredLength = 6;
 				opts.Password.RequireNonAlphanumeric = false;
 				opts.Password.RequireLowercase = false;
@@ -53,20 +59,23 @@ namespace CaelumNavis
 		
 public void Configure(IApplicationBuilder app)
 		{
-			app.UseMvc(routes =>
-			{
-				routes.MapRoute(
-					name: "default",
-					template: "{controller=Login}/{action=Index}");
-			});
+			
 			app.UseStatusCodePages();
 			app.UseDeveloperExceptionPage();
 			app.UseStaticFiles();
 			app.UseAuthentication();
-			app.UseMvcWithDefaultRoute();
-			
+			app.UseMvc(routes =>
+			{
+				routes.MapRoute(
+					name: "default",
+					template: "{controller=Account}/{action=Index}");
+			});
+			//app.UseMvcWithDefaultRoute();
+
 			AppDBContext.CreateAdminAccount(app.ApplicationServices,
-			Configuration).Wait();
+				Configuration).Wait();
+			
+			
 
 		}
 	}
