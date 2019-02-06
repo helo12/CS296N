@@ -77,7 +77,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n\n\t<p id=\"\">Want to Pledge to the game? Fill out this form!   </p>\n\t<p id=\"required\">Required values are marked by an asterisk (*)</p>\n\t<figure>\n\t\t");
             EndContext();
             BeginContext(226, 2308, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "593a54aada9940a8bf683353a286915b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "96f7e6a42e574adcbcd47e4752aaadf3", async() => {
                 BeginContext(258, 1253, true);
                 WriteLiteral(@"
 			<fieldset id=""custInfo"">
@@ -120,7 +120,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\"\n\t\t\t\t\t   required=\"required\" />\n\n\t\t\t\t<label for=\"Reason\">Reason For Pledge</label>\n\t\t\t\t<input name=\"Reason\" id=\"Reason    \" />\n\n\t\t\t\t<label for=\"pledgeType\">Pledge Type</label>\n\t\t\t\t<select name=\"pledgeType\" id=\"pledgeType\">\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1511, 33, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3edadc99cdd042098d71e4d60c994223", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d1b5110384044fb7afa1e173d29c1787", async() => {
                     BeginContext(1533, 2, true);
                     WriteLiteral("$5");
                     EndContext();
@@ -142,7 +142,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1550, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "630b0b127aad46c3a2a13473f092a189", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df09e6b2116c4aabbcf628a7897f1846", async() => {
                     BeginContext(1572, 3, true);
                     WriteLiteral("$10");
                     EndContext();
@@ -164,7 +164,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1590, 54, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8a78d4222b90458d8d6bb985185a56da", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64f413f60e514034a695111ee52337cf", async() => {
                     BeginContext(1632, 3, true);
                     WriteLiteral("$15");
                     EndContext();
@@ -187,7 +187,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1650, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8fecf54dc2b246f081f8eb0638431c0e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c916b29a556a41ceb39204cb9b8c5a29", async() => {
                     BeginContext(1672, 3, true);
                     WriteLiteral("$20");
                     EndContext();
@@ -209,7 +209,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t</select>\n\t\t\t\t<label for=\"infoSrc\">Where did you hear about us? <br /> (select all that apply)</label>\n\t\t\t\t<select name=\"infoSrc\" id=\"infoSrc\" size=\"5\" multiple=\"multiple\">\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1867, 42, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c7c832090cc542ff8d399217d663683b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "08e58ba60ca24560bac2d9d3a9418ac0", async() => {
                     BeginContext(1892, 8, true);
                     WriteLiteral("Internet");
                     EndContext();
@@ -231,7 +231,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1915, 37, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4f2189245ffb461b9354fd6ac865407f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b85417763ffa404d9ef214745dcf47fa", async() => {
                     BeginContext(1935, 8, true);
                     WriteLiteral("Magazine");
                     EndContext();
@@ -253,7 +253,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1958, 39, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d51d26de89154f7ba4ad788b3d5cee7f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4340a5c40f7848d0a235cf89b0b68d6d", async() => {
                     BeginContext(1979, 9, true);
                     WriteLiteral("Newspaper");
                     EndContext();
@@ -275,7 +275,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(2003, 43, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fbe18d0db654e00be78b9b35d2b7c4c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e25e4f7478d46e7ad696b85e3ae4f2f", async() => {
                     BeginContext(2024, 13, true);
                     WriteLiteral("Word of Mouth");
                     EndContext();
@@ -297,7 +297,7 @@ using CaelumNavis.Models;
                 WriteLiteral("\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(2052, 36, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be58e948acda4cd88cd12eba17436017", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "55dffda9e66b484e92694bef6c97d7b1", async() => {
                     BeginContext(2074, 5, true);
                     WriteLiteral("other");
                     EndContext();

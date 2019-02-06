@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace CaelumNavis.Controllers
 {
-	[Authorize]
+
 	public class HomeController : Controller
 	{
 		public ICustomerRepo CustomerRepo { get; set; }
@@ -24,10 +24,12 @@ namespace CaelumNavis.Controllers
 
 
 		//home page
+		[Authorize]
 		public IActionResult Index()
 		{
-
-			return View();
+			
+				return View();
+		
 		}
 		//Frequently Asked Questions
 		public IActionResult FAQ()

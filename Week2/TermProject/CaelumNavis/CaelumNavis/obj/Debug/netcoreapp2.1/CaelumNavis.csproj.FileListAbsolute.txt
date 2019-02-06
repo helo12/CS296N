@@ -129,3 +129,6 @@ C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\Cae
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\bin\Debug\netcoreapp2.1\CaelumNavis.dll.config
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\CaelumNavis.csprojAssemblyReference.cache
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\CaelumNavis.dll.config
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Login_Layout.g.cshtml.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Roles\UpdateRole.g.cshtml.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.g.cshtml.cs

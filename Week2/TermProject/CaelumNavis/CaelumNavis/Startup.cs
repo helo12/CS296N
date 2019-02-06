@@ -64,17 +64,18 @@ public void Configure(IApplicationBuilder app)
 			app.UseDeveloperExceptionPage();
 			app.UseStaticFiles();
 			app.UseAuthentication();
-			app.UseMvcWithDefaultRoute();
-			
-			AppDBContext.CreateAdminAccount(app.ApplicationServices,
-				Configuration).Wait();
-			
 			app.UseMvc(routes =>
 			{
 				routes.MapRoute(
 					name: "default",
-					template: "{controller=Login}/{action=Index}");
+					template: "{controller=Account}/{action=Index}");
 			});
+			//app.UseMvcWithDefaultRoute();
+
+			AppDBContext.CreateAdminAccount(app.ApplicationServices,
+				Configuration).Wait();
+			
+			
 
 		}
 	}

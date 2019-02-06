@@ -15,7 +15,7 @@ namespace CaelumNavis.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View("~/Views/Account/Login.cshtml");
         }
 		private UserManager<Customer> userManager;
 		private SignInManager<Customer> signInManager;
@@ -49,9 +49,10 @@ namespace CaelumNavis.Controllers
 				{
 					await signInManager.SignOutAsync();
 					var result = await signInManager.PasswordSignInAsync(customer, model.Password, false, false);
+					
 					if (result.Succeeded)
 					{
-					
+						returnUrl = "https://localhost:44360/Home/Index.cshtml";
 						return Redirect(returnUrl ?? "/");
 					}
 				}
