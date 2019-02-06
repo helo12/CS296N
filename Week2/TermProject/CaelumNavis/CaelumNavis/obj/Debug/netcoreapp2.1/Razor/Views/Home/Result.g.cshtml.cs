@@ -23,8 +23,13 @@ using CaelumNavis.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c586f30b70d517cd3f9d440cf7df74aa47f65e8a", @"/Views/Home/Result.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f9ceffd9400045af48fcaede8fe61b16468dfe3a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"96d2399d9eb91e506edc1bb1d386abeb1bc47be6", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Result : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<CustomerVM>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "DeleteCustomer", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -214,7 +219,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t<a>Edit</a> |\n\t\t\t\t\t");
             EndContext();
             BeginContext(1104, 113, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fbfc5b3e17514623ae3fb0cfb255dc28", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5de04219ef194deebc3566dd1588016e", async() => {
                 BeginContext(1207, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
@@ -245,7 +250,7 @@ using CaelumNavis.Models;
             WriteLiteral("\t</tbody>\n\t<p>\n\t\t");
             EndContext();
             BeginContext(1258, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8b09d7dca4c4423da5c89d00ccbb9a17", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dfcba4a78bc041a5a9b6a5e62e5c4936", async() => {
                 BeginContext(1321, 24, true);
                 WriteLiteral("Go Back to Customer View");
                 EndContext();

@@ -23,8 +23,13 @@ using CaelumNavis.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week2\TermProject\CaelumNavis\CaelumNavis\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"60b9e80a4586439deda73f279e16a774ed845ea5", @"/Views/Home/MessageView.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f9ceffd9400045af48fcaede8fe61b16468dfe3a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"96d2399d9eb91e506edc1bb1d386abeb1bc47be6", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_MessageView : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<CaelumNavis.Models.Repos.IMessageRepo>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("type", new global::Microsoft.AspNetCore.Html.HtmlString("submit"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -79,7 +84,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n\t");
             EndContext();
             BeginContext(201, 86, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c13b083cd949460b9efa6f4df5d6b817", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "aef4a24dd3b44ce0aa4c3d57584a5b40", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_FormActionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper>();
@@ -102,7 +107,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n</p>\n<p>\n\t");
             EndContext();
             BeginContext(298, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d2532cb6232a40b5bcc67286c4f617e1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fdac772a3acc4f5a9b385e1c65d5fcca", async() => {
                 BeginContext(360, 14, true);
                 WriteLiteral("Create Message");
                 EndContext();
@@ -317,7 +322,7 @@ using CaelumNavis.Models;
             WriteLiteral("\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t<a>Edit</a> |\n\t\t\t\t\t");
             EndContext();
             BeginContext(1646, 113, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "139857e88ac741fbb8a835ca051fa2b1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "92a9fc469aaf45c18efbc6b5a2fdd3a1", async() => {
                 BeginContext(1749, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
