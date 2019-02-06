@@ -115,12 +115,12 @@ WriteAttributeValue("", 233, role.Id, 233, 8, false);
             WriteLiteral("></td>\r\n\t\t\t<td>\r\n\t\t\t\t");
             EndContext();
             BeginContext(263, 274, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "551df0e5dbf346d8a3979d7f9a9ee34b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d3aff5a5c764eef80294e40eee97bc8", async() => {
                 BeginContext(327, 7, true);
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(334, 93, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cc46c3ee24514c609afcc2cc17e448de", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f7fe138c03d94aadad6424557bf7d2b4", async() => {
                     BeginContext(419, 4, true);
                     WriteLiteral("Edit");
                     EndContext();
