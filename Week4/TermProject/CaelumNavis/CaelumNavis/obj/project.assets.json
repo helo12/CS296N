@@ -12545,11 +12545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week4\\TermProject\\CaelumNavis\\CaelumNavis\\CaelumNavis.csproj",
+      "projectUniqueName": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week2\\TermProject\\CaelumNavis\\CaelumNavis\\CaelumNavis.csproj",
       "projectName": "CaelumNavis",
-      "projectPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week4\\TermProject\\CaelumNavis\\CaelumNavis\\CaelumNavis.csproj",
+      "projectPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week2\\TermProject\\CaelumNavis\\CaelumNavis\\CaelumNavis.csproj",
       "packagesPath": "C:\\Users\\carve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week4\\TermProject\\CaelumNavis\\CaelumNavis\\obj\\",
+      "outputPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week2\\TermProject\\CaelumNavis\\CaelumNavis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

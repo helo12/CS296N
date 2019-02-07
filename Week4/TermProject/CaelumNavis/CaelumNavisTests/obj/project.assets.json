@@ -5860,11 +5860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week4\\TermProject\\CaelumNavis\\CaelumNavisTests\\CaelumNavisTests.csproj",
+      "projectUniqueName": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week2\\TermProject\\CaelumNavis\\CaelumNavisTests\\CaelumNavisTests.csproj",
       "projectName": "CaelumNavisTests",
-      "projectPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week4\\TermProject\\CaelumNavis\\CaelumNavisTests\\CaelumNavisTests.csproj",
+      "projectPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week2\\TermProject\\CaelumNavis\\CaelumNavisTests\\CaelumNavisTests.csproj",
       "packagesPath": "C:\\Users\\carve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week4\\TermProject\\CaelumNavis\\CaelumNavisTests\\obj\\",
+      "outputPath": "C:\\Users\\carve\\Desktop\\School\\WinterTerm2018\\CS296N\\CS296N\\Week2\\TermProject\\CaelumNavis\\CaelumNavisTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
