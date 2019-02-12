@@ -10,11 +10,12 @@ using Microsoft.AspNetCore.Identity;
 
 namespace CaelumNavis.Controllers
 {
-    public class AccountController : Controller
+	[Authorize(Roles = "Admins")]
+	public class AccountController : Controller
     {
         public IActionResult Index()
         {
-            return View();
+            return View("~/Views/Account/Login.cshtml");
         }
 		private UserManager<Customer> userManager;
 		private SignInManager<Customer> signInManager;
@@ -37,7 +38,7 @@ namespace CaelumNavis.Controllers
 		}
 
 		[HttpPost]
-		[AllowAnonymous]
+		[AllowAnonymous]	
 		[ValidateAntiForgeryToken]
 		public async Task<IActionResult> Login(LoginViewModel model, string returnUrl)
 		{
@@ -48,9 +49,12 @@ namespace CaelumNavis.Controllers
 				{
 					await signInManager.SignOutAsync();
 					var result = await signInManager.PasswordSignInAsync(customer, model.Password, false, false);
+					
 					if (result.Succeeded)
 					{
-						return Redirect(returnUrl ?? "/");
+
+						//return Redirect(returnUrl ?? "");
+						return RedirectToAction("Index", "Home");
 					}
 				}
 				ModelState.AddModelError(nameof(LoginViewModel.Email), "Invalid user or password");
