@@ -6,8 +6,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADfBLCL+WjUm0HiNNuNqZHQAAAAACAAAAAAAQZgAAAAEAACAAAACUllpoW8nJRPOXLnhbvJnKJ8vVrH1O3FxPoh9QXkGetQAAAAAOgAAAAAIAACAAAACHRTQmjzzWR/jn8ziPhJHTAHeZyN6w1HNpW7hmNujDkyAAAACKNIdT6+T5pvM5lWvS9HXJbXMqBFwOlrbMXrxvu9iDxEAAAAADa2n4fMJhqV2VKCc+V7zlYDroYFk21px8Yd2bjPodiKMzL5pxW1zpYM+2X4IVKS8CYEMUsvmq65Ad0dIsCJIf</EncryptedPassword>
-    <_PublishTargetUrl>ftp://ftp.site4now.net/CaelumNavis</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADfBLCL+WjUm0HiNNuNqZHQAAAAACAAAAAAAQZgAAAAEAACAAAADBo3DqK1xfkkhJJu9d2xsQ0KnUMNYuoAMZ1QFLniACugAAAAAOgAAAAAIAACAAAACEy5ewxPL9WGliJSWxDe72szt6DM4mGmT9RvEoJQ4wtyAAAAAW1YCbss064H3oupl+K/LsvKfSG7APnW4ruanFbAoRwkAAAADkpJSkcTUYjfLE7RJW7xFMfUqpKYuHmqlCrPNo9AW8cNx8KhG2ITNrlj/h70261QfUlj/NEsSLBT6FiVXkN4N6</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.site4now.net</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <DestinationConnectionStrings Include="DefaultConnection">

@@ -1,0 +1,14 @@
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\CaelumNavisTests.deps.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\CaelumNavisTests.runtimeconfig.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\CaelumNavisTests.runtimeconfig.dev.json
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\bin\Release\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.csproj.CoreCompileInputs.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.AssemblyInfoInputs.cache
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.AssemblyInfo.cs
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.dll
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.pdb
+C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.csprojAssemblyReference.cache

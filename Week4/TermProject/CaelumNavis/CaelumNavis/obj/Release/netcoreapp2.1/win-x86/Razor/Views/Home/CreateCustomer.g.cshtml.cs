@@ -71,7 +71,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\n<h2>CreateCustomer</h2>\n\n");
             EndContext();
             BeginContext(113, 1130, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae4d1c36921341ae9a868aa787a88cb0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f572784426ca4ba7a6d8da324ef997e7", async() => {
                 BeginContext(161, 1, true);
                 WriteLiteral("\n");
                 EndContext();

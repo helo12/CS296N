@@ -219,7 +219,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\n\t\t\t\t</td>\n\t\t\t\t<td>\n\t\t\t\t\t<a>Edit</a> |\n\t\t\t\t\t");
             EndContext();
             BeginContext(1104, 113, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "37848ca8584844bd8e18166ca0ebe2f4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eba6d0114f4146bb9e79bd34c1e4692a", async() => {
                 BeginContext(1207, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
@@ -250,7 +250,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\t</tbody>\n\t<p>\n\t\t");
             EndContext();
             BeginContext(1258, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5375f3944bac429fbb17c16e56e9b134", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9ef7581aff1040a9809df108bd3da719", async() => {
                 BeginContext(1321, 24, true);
                 WriteLiteral("Go Back to Customer View");
                 EndContext();
