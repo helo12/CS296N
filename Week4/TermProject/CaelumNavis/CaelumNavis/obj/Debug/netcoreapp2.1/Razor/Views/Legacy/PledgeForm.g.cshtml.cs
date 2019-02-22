@@ -82,7 +82,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n\r\n\t<p id=\"\">Want to Pledge to the game? Fill out this form!   </p>\r\n\t<p id=\"required\">Required values are marked by an asterisk (*)</p>\r\n\t<figure>\r\n\t\t");
             EndContext();
             BeginContext(236, 2383, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cd216ea5ec7f431b95856c06fa281140", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "61ab93d24cd94a9ab0e534a183220734", async() => {
                 BeginContext(268, 1298, true);
                 WriteLiteral(@"
 			<fieldset id=""custInfo"">
@@ -133,7 +133,7 @@ using Microsoft.AspNetCore.Identity;
 					");
                 EndContext();
                 BeginContext(1566, 33, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f68c25787e7e4fd59dd1e3a2e2c17fb0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24b19de0c14c4f47957fc14cebd371a8", async() => {
                     BeginContext(1588, 2, true);
                     WriteLiteral("$5");
                     EndContext();
@@ -155,7 +155,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1606, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "17c5344ece59486f83a053af3a158c2e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "406d086eb9ad488b9fc19d5bc6be73dd", async() => {
                     BeginContext(1628, 3, true);
                     WriteLiteral("$10");
                     EndContext();
@@ -177,7 +177,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1647, 54, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cd598cb459f45509bd53f898cdc4745", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "364a81ce3439403ea5a38c93d3c90b28", async() => {
                     BeginContext(1689, 3, true);
                     WriteLiteral("$15");
                     EndContext();
@@ -200,7 +200,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1708, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21f431b502bb4c31a121f7c0619b67c7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "851baf076d884c1ba9becadfb5cd51ac", async() => {
                     BeginContext(1730, 3, true);
                     WriteLiteral("$20");
                     EndContext();
@@ -222,7 +222,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t</select>\r\n\t\t\t\t<label for=\"infoSrc\">Where did you hear about us? <br /> (select all that apply)</label>\r\n\t\t\t\t<select name=\"infoSrc\" id=\"infoSrc\" size=\"5\" multiple=\"multiple\">\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1929, 42, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d32f7ea598ec4074ba75fc79602374d7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfaf8eee12a54ee5b947e7a36474cba7", async() => {
                     BeginContext(1954, 8, true);
                     WriteLiteral("Internet");
                     EndContext();
@@ -244,7 +244,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(1978, 37, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c4c8415b390746c3bfa68a9b550825e0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c32e04afb7294cb192a157c39fff799b", async() => {
                     BeginContext(1998, 8, true);
                     WriteLiteral("Magazine");
                     EndContext();
@@ -266,7 +266,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(2022, 39, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2e082737e409458584ae4a0ad6af488e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c8c0a4feb58a40738c09763e7615ed0b", async() => {
                     BeginContext(2043, 9, true);
                     WriteLiteral("Newspaper");
                     EndContext();
@@ -288,7 +288,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(2068, 43, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bda282395bc84abcb638b67645eda326", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4666e949161c4531a9710cb7bcb38460", async() => {
                     BeginContext(2089, 13, true);
                     WriteLiteral("Word of Mouth");
                     EndContext();
@@ -310,7 +310,7 @@ using Microsoft.AspNetCore.Identity;
                 WriteLiteral("\r\n\t\t\t\t\t");
                 EndContext();
                 BeginContext(2118, 36, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cd954d696d1448ff89d21fbd160e1fd9", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "371d237a9ed14853ad2b89fc9224aa59", async() => {
                     BeginContext(2140, 5, true);
                     WriteLiteral("other");
                     EndContext();
