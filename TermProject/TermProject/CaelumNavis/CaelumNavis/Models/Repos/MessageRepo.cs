@@ -92,6 +92,24 @@ public class MessageRepo : IMessageRepo
 			Sent.Add(response);
 
 		}
+        public void DeleteMessagesByCustomer (Customer customer){
+            bool madeChanges = false;
+            this.Sent.Find((m) => {
+                if(m.cust == customer){
+
+                    this.Sent.Remove(m);
+                    return true;
+                }
+                else{
+                    return false;
+                }
+
+             });
+            if (madeChanges)
+            {
+                this.context.SaveChanges();
+            }
+        }
 	}
 }
 

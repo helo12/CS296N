@@ -13,6 +13,7 @@ namespace CaelumNavis.Models.Repos
 		void DeleteSent(Message message);
 		void UpdateMessage(Message message);
 		Message GetSentMessageByUser(string Name);
+		void DeleteMessagesByCustomer(Customer customer);
 		void AddTestData();
 
 	}

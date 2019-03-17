@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using static CaelumNavis.Models.CustomerVM;
+using CaelumNavis.Models.Repos;
 
 namespace CaelumNavis.Controllers
 {
@@ -19,16 +20,20 @@ namespace CaelumNavis.Controllers
 		private IUserValidator<Customer> userValidator;
 		private IPasswordValidator<Customer> passwordValidator;
 		private IPasswordHasher<Customer> passwordHasher;
+        private IMessageRepo messageRepo;
 
 		public AdminController(UserManager<Customer> usrMgr,
 				IUserValidator<Customer> userValid,
 				IPasswordValidator<Customer> passValid,
-				IPasswordHasher<Customer> passwordHash)
+				IPasswordHasher<Customer> passwordHash,
+                IMessageRepo messageRepo
+                )
 		{
 			userManager = usrMgr;
 			userValidator = userValid;
 			passwordValidator = passValid;
 			passwordHasher = passwordHash;
+            this.messageRepo = messageRepo;
 		}
 		[Route("Admin/Index")]
 		public ViewResult Index() => View(userManager.Users);
@@ -76,6 +81,10 @@ public async Task<IActionResult> Delete(string id)
 	Customer user = await userManager.FindByIdAsync(id);
 	if (user != null)
 	{
+				// Can't call delete user yet
+				// Need to delete all messages in messageRepo that have that customer first
+				// Need to delete any other data in repo that have that Customer
+		messageRepo.DeleteMessagesByCustomer(user);
 		IdentityResult result = await userManager.DeleteAsync(user);
 		if (result.Succeeded)
 		{
