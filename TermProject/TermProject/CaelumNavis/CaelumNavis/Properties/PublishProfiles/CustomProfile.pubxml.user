@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADfBLCL+WjUm0HiNNuNqZHQAAAAACAAAAAAAQZgAAAAEAACAAAADBo3DqK1xfkkhJJu9d2xsQ0KnUMNYuoAMZ1QFLniACugAAAAAOgAAAAAIAACAAAACEy5ewxPL9WGliJSWxDe72szt6DM4mGmT9RvEoJQ4wtyAAAAAW1YCbss064H3oupl+K/LsvKfSG7APnW4ruanFbAoRwkAAAADkpJSkcTUYjfLE7RJW7xFMfUqpKYuHmqlCrPNo9AW8cNx8KhG2ITNrlj/h70261QfUlj/NEsSLBT6FiVXkN4N6</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.site4now.net</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL7002.site4now.net%3bInitial Catalog=DB_A45468_CaelumNavis%3bUser Id=DB_A45468_CaelumNavis_admin%3bPassword=Whatsup1995%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="CaelumNavis.Models.Repos.AppDBContext">
+      <Value>Data Source=SQL7002.site4now.net%3bInitial Catalog=DB_A45468_CaelumNavis%3bUser Id=DB_A45468_CaelumNavis_admin%3bPassword=Whatsup1995%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
