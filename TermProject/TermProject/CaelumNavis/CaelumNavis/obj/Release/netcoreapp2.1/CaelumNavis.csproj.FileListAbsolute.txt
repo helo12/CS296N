@@ -101,4 +101,3 @@ C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\TermProje
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\TermProject\CaelumNavis\CaelumNavis\obj\Release\netcoreapp2.1\CaelumNavis.dll
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\TermProject\CaelumNavis\CaelumNavis\obj\Release\netcoreapp2.1\CaelumNavis.pdb
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\TermProject\CaelumNavis\CaelumNavis\obj\Release\netcoreapp2.1\CaelumNavis.csproj.CopyComplete
-C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\TermProject\TermProject\CaelumNavis\CaelumNavis\obj\Release\netcoreapp2.1\CaelumNavis.csprojAssemblyReference.cache

@@ -71,7 +71,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n<h2>CustomerView</h2>\r\n");
             EndContext();
             BeginContext(160, 167, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d4bd5c3a53a74dd18340593c2ebb2eb2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6b60d44cf5b42338fd688009fdc17cb", async() => {
                 BeginContext(180, 140, true);
                 WriteLiteral("\r\n\t<input type=\"text\" name=\"searchString\" placeholder=\"search for\" />\r\n\t<input type=\"submit\" value=\"searchString\" class=\"btn-secondary\" />\r\n");
                 EndContext();
@@ -95,7 +95,7 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n<p>\r\n\t");
             EndContext();
             BeginContext(335, 84, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e2bad063b1114b639a26ebeffd65cf7d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b63b1b053fa84fb58d09ac375448c96c", async() => {
                 BeginContext(400, 15, true);
                 WriteLiteral("Create Customer");
                 EndContext();

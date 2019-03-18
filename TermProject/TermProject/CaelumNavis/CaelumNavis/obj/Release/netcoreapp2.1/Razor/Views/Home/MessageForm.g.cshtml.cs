@@ -73,12 +73,12 @@ using Microsoft.AspNetCore.Identity;
             WriteLiteral("\r\n\r\n<h2>MessageForm</h2>\r\n");
             EndContext();
             BeginContext(116, 2413, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "96fdf9b0232e40c195081193cae5e5cb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d5bad89dc3f1470e8cdf0fcf7e37a3bd", async() => {
                 BeginContext(194, 135, true);
                 WriteLiteral("\r\n\r\n\t<p id=\"required\">Want to get in contact with us? Fill out this form!   </p>\r\n\t<figure>\r\n\t\t<legend>Contact Information</legend>\r\n\t\t");
                 EndContext();
                 BeginContext(329, 2179, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4f69831f84264bb3a3f78413342427a2", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b2eb14caa2c4b7e9565ae93f0f22a26", async() => {
                     BeginContext(374, 2, true);
                     WriteLiteral("\r\n");
                     EndContext();
