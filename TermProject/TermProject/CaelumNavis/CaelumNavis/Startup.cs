@@ -61,8 +61,8 @@ public void Configure(IApplicationBuilder app)
 		{
 			app.Use(async (context, next) =>
 			{
-				//context.Response.Headers.Add("X-Content-Type-Options", "nosniff");
-				//await next();
+				context.Response.Headers.Add("X-Content-Type-Options", "nosniff");
+				context.Response.Headers.Add("X-Frame-Options", "SAMEORIGIN");
 				context.Response.Headers.Add("X-XSS-Protection", "1; mode=block");
 				await next();
 			});

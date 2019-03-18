@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace CaelumNavis.Controllers
 {
-	[Authorize(Roles = "Admins")]
+	
 	public class AccountController : Controller
     {
         public IActionResult Index()
