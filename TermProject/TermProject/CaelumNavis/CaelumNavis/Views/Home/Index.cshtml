@@ -1,0 +1,26 @@
+﻿@model CaelumNavis.Models.Login.LoginViewModel
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+<div style="background-image: url('images/BackgroundNew.jpg'); background-size: cover;">
+	<h1 style=" text-align: center;color:black;">Caelum Navis</h1>
+
+
+
+	<div style="text-align:center; margin:auto; padding:20px; color:black">
+		<blockquote><i>Caelum Navis means heavenly ship in latin. What twisted irony this is. That our hell is named after a would be heaven.</i></blockquote>
+			<p>
+			Caelum Navis is a game currently in development that is attempting to create the feeling of being trapped in a ship in deep space.
+			You will need to restore power to lost systems, use innovative strategies to survive, and attempt to restore power to your ship and make
+			before christmas. Its going to be a long cold journey. Are you ready?
+			</p>
+	</div>
+	</div>
+}
+else
+{
+	<h1> ACCESS DENIED </h1>
+} <!--Column left-->

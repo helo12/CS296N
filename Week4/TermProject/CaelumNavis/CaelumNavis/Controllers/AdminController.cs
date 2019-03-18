@@ -34,7 +34,7 @@ namespace CaelumNavis.Controllers
 		public ViewResult Index() => View(userManager.Users);
 		[Route("Admin/CreatePage")]
 		public ViewResult Create() => View();
-		[Route("Admin/Delete")]
+	
 		public ViewResult Delete() => View();
 	
 
@@ -56,7 +56,8 @@ public async Task<IActionResult> Create(Models.CreateModel model)
 
 		if (result.Succeeded)
 		{
-			return RedirectToAction("Index");
+				
+					return RedirectToAction("Index");
 		}
 		else
 		{
@@ -70,6 +71,7 @@ public async Task<IActionResult> Create(Models.CreateModel model)
 }
 
 [HttpPost]
+[Route("Admin/Delete")]
 public async Task<IActionResult> Delete(string id)
 {
 	Customer user = await userManager.FindByIdAsync(id);
@@ -77,7 +79,7 @@ public async Task<IActionResult> Delete(string id)
 	{
 		IdentityResult result = await userManager.DeleteAsync(user);
 		if (result.Succeeded)
-		{
+		{	
 			return RedirectToAction("Index");
 		}
 		else

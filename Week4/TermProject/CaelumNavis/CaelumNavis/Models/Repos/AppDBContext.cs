@@ -7,16 +7,24 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
+using System.ComponentModel.DataAnnotations;
+// add a reference to System.ComponentModel.DataAnnotations DLL
+using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
+using System;
 namespace CaelumNavis.Models.Repos
 {
 	public class AppDBContext : IdentityDbContext<Customer>
 	{
-		public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) { }
+		public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) {}
 		public DbSet<Message> Messages { get; set; }
+
+	
 		public DbSet<Customer> Customers { get; set; }
+
 		
 		
+
 		public static async Task CreateAdminAccount(IServiceProvider serviceProvider,
 		IConfiguration configuration)
 		{
@@ -46,6 +54,7 @@ namespace CaelumNavis.Models.Repos
 
 				IdentityResult result = await userManager
 					.CreateAsync(customer, password);
+				
 				if (result.Succeeded)
 				{
 					await userManager.AddToRoleAsync(customer, role);

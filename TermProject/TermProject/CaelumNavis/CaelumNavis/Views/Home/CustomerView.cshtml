@@ -1,0 +1,75 @@
+﻿@model CaelumNavis.Models.Repos.ICustomerRepo
+@{
+	ViewData["Title"] = "CustomerView";
+	Layout = "/views/shared/_Layout.cshtml";
+}
+
+<h2>CustomerView</h2>
+<form method="post">
+	<input type="text" name="searchString" placeholder="search for" />
+	<input type="submit" value="searchString" class="btn-secondary" />
+</form>
+<p>
+	<a asp-area="" asp-controller="Home" asp-action="CreateCustomer">Create Customer</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayName("Name")
+			</th>
+			<th>
+				@Html.DisplayName("Address")
+			</th>
+			<th>
+				@Html.DisplayName("City")
+			</th>
+			<th>
+				@Html.DisplayName("ZipCode")
+			</th>
+			<th>
+				@Html.DisplayName("Email")
+			</th>
+
+			<th>
+				@Html.DisplayName("CanContact")
+			</th>
+			<th>
+				@Html.DisplayName("Terms")
+			</th>
+			<th>Edit</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.Customers)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.UserName)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Address)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.City)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.ZipCode)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Email)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.CanContact)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Terms)
+				</td>
+				<td>
+					<a>Edit</a> 
+				
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

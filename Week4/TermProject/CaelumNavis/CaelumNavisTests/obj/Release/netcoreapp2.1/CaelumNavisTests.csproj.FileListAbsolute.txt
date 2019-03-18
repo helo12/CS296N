@@ -11,4 +11,3 @@ C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\Cae
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.AssemblyInfo.cs
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.dll
 C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.pdb
-C:\Users\carve\Desktop\School\WinterTerm2018\CS296N\CS296N\Week4\TermProject\CaelumNavis\CaelumNavisTests\obj\Release\netcoreapp2.1\CaelumNavisTests.csprojAssemblyReference.cache
